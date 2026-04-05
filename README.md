@@ -25,16 +25,17 @@ A real-time automotive **CAN Bus Intrusion Detection System (IDS)** running enti
 [INFO] Normal traffic - 1000 frames processed
 
 
-No Attack, Normal ECU traffic
-<img width="640" height="321" alt="image" src="https://github.com/user-attachments/assets/33617821-ffee-4455-95d7-bdec6afdc5b9" />
+## Demo
 
-Simulated Attack by injecting malicous frames
-<img width="641" height="261" alt="image" src="https://github.com/user-attachments/assets/4646d1a5-39f5-493e-b159-9bd82309d378" />
+**No Attack — Normal ECU Traffic:**
 
-<img width="675" height="242" alt="image" src="https://github.com/user-attachments/assets/bc9d58d7-0cb8-4fae-9272-52ed40ebed3f" />
+![Normal Traffic](https://github.com/user-attachments/assets/33617821-ffee-4455-95d7-bdec6afdc5b9)
 
+**Simulated Attack — Malicious Frames Injected:**
 
+![Attack Detection 1](https://github.com/user-attachments/assets/4646d1a5-39f5-493e-b159-9bd82309d378)
 
+![Attack Detection 2](https://github.com/user-attachments/assets/bc9d58d7-0cb8-4fae-9272-52ed40ebed3f)
 
 
 
