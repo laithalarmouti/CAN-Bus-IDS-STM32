@@ -24,8 +24,7 @@ A real-time automotive **CAN Bus Intrusion Detection System (IDS)** running enti
 [ALERT] *** FUZZY ATTACK *** | ID: 0x03AB | Confidence: 97%
 [INFO] Normal traffic - 1000 frames processed
 
-
-## Demo
+```
 
 **No Attack — Normal ECU Traffic:**
 
@@ -40,7 +39,7 @@ A real-time automotive **CAN Bus Intrusion Detection System (IDS)** running enti
 
 
 
-```
+
 
 ---
 
